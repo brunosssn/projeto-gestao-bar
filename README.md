@@ -6,8 +6,7 @@
 [![Licença](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=for-the-badge)](https://github.com/seu-usuario/seu-repositorio/stargazers)
 
-*Uma breve e marcante frase de impacto descrevendo o que o seu projeto faz.*
-
+O sistema é uma plataforma de gestão integrada projetada para otimizar o fluxo de trabalho em bares e restaurantes. Ele atua desde a ponta do atendimento (registro de pedidos) até a entrega final (cozinha) e a retaguarda administrativa (BI e vendas).
 [Demonstração / Preview](#-demonstração) • [Funcionalidades](#-funcionalidades) • [Tecnologias](#-tecnologias) • [Instalação](#-instalação) • [Como Usar](#-como-usar)
 
 </div>
