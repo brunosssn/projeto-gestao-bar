@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Nome do Projeto
+# 🚀 Projeto Gestão Bar - Espetinho da Esquina
 
 [![Status do Projeto](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=for-the-badge)](https://github.com/seu-usuario/seu-repositorio)
 [![Licença](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
@@ -14,8 +14,14 @@ O sistema é uma plataforma de gestão integrada projetada para otimizar o fluxo
 ---
 
 ## 📖 Sobre o Projeto
-Descreva aqui o seu projeto de forma mais detalhada. Explique qual problema ele resolve, por que foi criado e para quem ele é direcionado. 
+## Integrantes:
+Bruno Alexandre de Sena | Isadora Gabriela Almeida Bezerra | Alessandro Henrique do Rego | Analice Ferreira da Silva
 
-*(Opcional: Adicione um GIF ou print da tela principal do projeto)*
-```markdown
-![Demonstração do Projeto](./caminho/para/o/gif-ou-imagem.gif)
+## Trilha escolhida:
+Trilha 02 - Pedidos
+
+## Qual problema ele resolve:
+O software busca eliminar falhas de comunicação entre garçons e cozinheiros, além de oferecer ao gestor uma visão analítica do negócio em tempo real. Sua interface é segmentada por níveis de acesso, garantindo segurança e simplicidade no uso diário. por que foi criado e para quem ele é direcionado. 
+
+
+
